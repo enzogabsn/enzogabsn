@@ -5,7 +5,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tJkMPATnke)
 
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithPython-cyber&show_icons=true&theme=dracula)
-
 ### Linguagens que eu mais utilizo no Github
 
 ![Enzo Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPython-cyber&layout=pie)
