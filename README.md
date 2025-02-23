@@ -6,7 +6,7 @@
 
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithPython-cyber&show_icons=true&theme=dracula)
 
-![Enzo Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPython-cyber&hide_progress=true)
+![Enzo Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPython-cyber&layout=pie)
 
 ## Tecnologias que eu sei ou estou aprendendo 
 
