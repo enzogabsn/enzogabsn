@@ -17,8 +17,7 @@
     <img aling="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     <img aling="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <div><br/>
-
-### Minha história
+## Minha história
 
 Eu começei na programação com 8 anos quando eu me interessei por jogos, então eu me perguntei: "Como que eles fizeram isso?", e então eu quis criar meu própio jogo. E então meu pai me apresentou o Gustavo Guanabara, um professor de programação para iniciantes, onde meu pai me recomendou eu começar aprendendo JavaScript, que foi a primeira linguagem que eu aprendi. Eu era muito bom com isso, e depois de 3 anos de estudo, eu finalmente vou começar a criar meu primeiro jogo na Unity. Me desejem sorte!
 
