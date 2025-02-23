@@ -19,6 +19,6 @@
 
 Apaixonado desde dos 8 anos ( tenho 11 agora ) por tecnologia aprendendo para criar coisas úteis para as pessoas. Meu sonho é cria jogos e estou começando minha jornada. Me desejem sorte!
 
-### Últimos repositórios
+### Últimos projetos
 
 - [Bot com Pyautogui](https://github.com/CodeWithPython-cyber/bot-zita)<br/>
