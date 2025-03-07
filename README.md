@@ -23,4 +23,3 @@ Eu começei na programação com 8 anos quando eu me interessei por jogos, entã
 ### Últimos projetos
 
 - [Bot com Pyautogui](https://github.com/CodeWithPython-cyber/bot-zita)<br/>
-- [ModuleScript para Parts](https://github.com/CodeWithPython-cyber/PartModule)<br/>
