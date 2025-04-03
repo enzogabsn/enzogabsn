@@ -27,4 +27,5 @@ Eu começei na programação com 8 anos quando eu me interessei por jogos, entã
 
 ### Últimos projetos
 
-- [Bot com Pyautogui](https://github.com/CodeWithPython-cyber/bot-zita)<br/>
+- [Bot com Pyautogui](https://github.com/enzogabsn/bot-zita)<br/>
+- [Registrador de usuários](https://github.com/enzogabsn/user-registration)<br/>
